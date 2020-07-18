@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Jun/2018:09:59:22 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:09:59:24 +0530] "GET /NewEJBProject/index.htm HTTP/1.1" 200 321
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:04 +0530] "POST /NewEJBProject/AddServlet HTTP/1.1" 200 3
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:36 +0530] "GET /NewEJBProject/AddServlet HTTP/1.1" 405 1065
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:36 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:42 +0530] "GET /NewEJBProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:42 +0530] "GET /NewEJBProject/ HTTP/1.1" 200 321
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:00:48 +0530] "POST /NewEJBProject/AddServlet HTTP/1.1" 200 4
+127.0.0.1 - - [15/Jun/2018:10:03:47 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:03:49 +0530] "GET /NewEJBProject/AddServlet HTTP/1.1" 405 1065
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:03:56 +0530] "GET /NewEJBProject HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Jun/2018:10:03:57 +0530] "GET /NewEJBProject/ HTTP/1.1" 200 321

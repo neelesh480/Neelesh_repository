@@ -1,0 +1,20 @@
+package createtestFile;
+
+public class testlamb {
+
+	public static void main(String[] args) {
+		
+			
+			String name="WelcomeJava";
+			Runnable r1=() -> System.out.println(name);
+			String name1 = name.toUpperCase();
+			Runnable r2=() -> {return "test";};
+			r1.run();
+			(x, y) ->  (x + y);
+			Object o = () -> {System.out.println(""); };
+			}
+			
+
+	
+
+}
