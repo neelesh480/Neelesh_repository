@@ -20,5 +20,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="F:/movies/Cheeta/Angular/primefaces-6.0.jar"/>
+	<classpathentry kind="lib" path="F:/movies/Gnw pics/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/movies/Gnw pics/ee.minimum-1.0.0.jar/ee.minimum-1.0.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

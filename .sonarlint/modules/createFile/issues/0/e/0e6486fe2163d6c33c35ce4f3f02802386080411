@@ -1,0 +1,10 @@
+
+ssquid:S1075"ARefactor your code to get this URI from a customizable parameter.(È¨ÆóşÿÿÿÿHÕRMINORZ
+CODE_SMELL
+wsquid:S2095"JUse try-with-resources or close this "XWPFDocument" in a "finally" clause.(Ç¥è±ûÿÿÿÿHÖRBLOCKERZBUG
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(«€ïüüÿÿÿÿH×RMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•òØúÿÿÿÿHØRMINORZ
+CODE_SMELL
+_squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ß»œÚ.HÙRMINORZVULNERABILITY
